@@ -1,0 +1,26 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Keil and embedded build output
+**/Objects/
+**/Listings/
+**/Debug/.clangd/
+**/Debug/.cache/
+**/*.o
+**/*.d
+**/*.crf
+**/*.dep
+**/*.axf
+**/*.elf
+**/*.hex
+**/*.bin
+**/*.map
+**/*.lst
+**/*.out
+**/*.log
+**/*.uvoptx
+
+# Editor and operating system files
+.DS_Store
+Thumbs.db
